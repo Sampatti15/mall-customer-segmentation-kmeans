@@ -1,25 +1,25 @@
 # Problem Statement
 
-A shopping mall aims to better understand its customers by analyzing their purchasing behavior and demographic information. The mall possesses customer-related data but lacks meaningful insights that can support strategic business decisions.
+Retail businesses often collect large amounts of customer data but struggle to extract actionable insights from it. Understanding customer behavior is essential for creating effective marketing strategies and improving customer satisfaction.
 
-The objective of this project is to build a Customer Segmentation System using Unsupervised Machine Learning techniques. Specifically, clustering algorithms are used to group customers based on similarities in their spending habits and other relevant attributes.
+This project aims to develop a Customer Segmentation System using Unsupervised Machine Learning techniques. By applying clustering algorithms to customer demographic and spending data, customers can be grouped into distinct segments based on similar characteristics and purchasing behavior.
 
-These customer groups can help identify:
+The generated customer segments help identify:
 
-* High-value customers who contribute significantly to revenue.
-* Moderate spenders with growth potential.
-* Low-engagement customers who may require targeted promotions.
-* Other behavioral segments based on purchasing patterns.
+- High-value customers with strong purchasing power.
+- Customers with growth potential.
+- Low-engagement customers who may benefit from targeted promotions.
+- Distinct behavioral groups with unique spending patterns.
 
-The insights generated from these clusters can assist the business in:
+The insights obtained from these segments can support businesses in:
 
-* Creating personalized marketing campaigns.
-* Improving customer retention strategies.
-* Enhancing customer experience.
-* Optimizing resource allocation and promotional activities.
-* Supporting data-driven decision-making.
+- Personalized marketing and promotional campaigns.
+- Improved customer retention strategies.
+- Enhanced customer experience and engagement.
+- Efficient allocation of business resources.
+- Data-driven decision-making.
 
-This project demonstrates the practical application of clustering techniques in solving real-world business problems through customer behavior analysis.
+This project demonstrates the practical application of K-Means Clustering in solving real-world business problems through customer behavior analysis and segmentation.
 
 
 <img width="771" height="781" alt="Screenshot" src="https://github.com/user-attachments/assets/fa28a7e5-8be0-4bc7-9b42-2b71d9518682" />
