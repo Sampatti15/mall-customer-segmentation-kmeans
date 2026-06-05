@@ -89,7 +89,7 @@ These insights can help businesses better understand their customer base and cre
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am passionate about Machine Learning and Web Development. I enjoy building projects that solve real-world business problems and continuously improving my technical skills.
 
